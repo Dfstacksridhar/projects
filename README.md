@@ -9,10 +9,10 @@ Data Cleaning:Inside the zip file ,The fileConvert.py and dataClean.py removes t
 
 Data Analyzing: In the AuthorKnn.ipynb file , the data analyzing part is performed to find the comman word among the authors to identify the unknown author.Classification is done using the KNN algorithm .
 
-The Authors zip has the pandas file and some of the csv file. The projects is basically the classification problem.The workflow is mentioned in the AuthorKnn.ipynb file.
+The Authors zip has the pandas file and some of the csv file. The project is basically the classification problem.The workflow is mentioned in the AuthorKnn.ipynb file.
 
 # Data convertion works
 Problem-
- 
+ Analyzing the text file and converting it to expected csv file.
 
-The Data clean zip has the text file and .csv files. This work is primarly focused on data cleaning part where the text file is converted to the desired csv file.
+The Data clean zip has the text file and .csv files. This work is primarly focused on data convertion part.The output looks like the file in the expected result folder
