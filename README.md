@@ -1,6 +1,6 @@
-# projects
+# projects in data science.
 
-1.Classificaton
+1.Classificaton problems:
 
 Problem-
  Analyzing the written works of 2 different authors and using the K-Nearest Neighbors (KNN) classification algorithm to classify an additional work by each author. The four works from each author as the initial data vectors, and the 5th work from each to test the classification algorithm
@@ -12,7 +12,7 @@ The Author Classification is performed using the KNN algorithm.
 
 The Authors zip file includes the pandas' file and CSV files. The AuthorKnn.ipynb file has a description of the workflow.
 
-# Data conversion works
+# Data conversion :
 Problem-
  the text file is analyzed to convert to the CSV file.
 
